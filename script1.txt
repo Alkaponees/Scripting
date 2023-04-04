@@ -1,0 +1,163 @@
+[?25l[?7l[0m[31m[1m            .-/+oossssoo+/-.
+        `:+ssssssssssssssssss+:`
+      -+ssssssssssssssssssyyssss+-
+    .ossssssssssssssssss[37m[0m[1mdMMMNy[0m[31m[1msssso.
+   /sssssssssss[37m[0m[1mhdmmNNmmyNMMMMh[0m[31m[1mssssss/
+  +sssssssss[37m[0m[1mhm[0m[31m[1myd[37m[0m[1mMMMMMMMNddddy[0m[31m[1mssssssss+
+ /ssssssss[37m[0m[1mhNMMM[0m[31m[1myh[37m[0m[1mhyyyyhmNMMMNh[0m[31m[1mssssssss/
+.ssssssss[37m[0m[1mdMMMNh[0m[31m[1mssssssssss[37m[0m[1mhNMMMd[0m[31m[1mssssssss.
++ssss[37m[0m[1mhhhyNMMNy[0m[31m[1mssssssssssss[37m[0m[1myNMMMy[0m[31m[1msssssss+
+oss[37m[0m[1myNMMMNyMMh[0m[31m[1mssssssssssssss[37m[0m[1mhmmmh[0m[31m[1mssssssso
+oss[37m[0m[1myNMMMNyMMh[0m[31m[1msssssssssssssshmmmh[0m[31m[1mssssssso
++ssss[37m[0m[1mhhhyNMMNy[0m[31m[1mssssssssssss[37m[0m[1myNMMMy[0m[31m[1msssssss+
+.ssssssss[37m[0m[1mdMMMNh[0m[31m[1mssssssssss[37m[0m[1mhNMMMd[0m[31m[1mssssssss.
+ /ssssssss[37m[0m[1mhNMMM[0m[31m[1myh[37m[0m[1mhyyyyhdNMMMNh[0m[31m[1mssssssss/
+  +sssssssss[37m[0m[1mdm[0m[31m[1myd[37m[0m[1mMMMMMMMMddddy[0m[31m[1mssssssss+
+   /sssssssssss[37m[0m[1mhdmNNNNmyNMMMMh[0m[31m[1mssssss/
+    .ossssssssssssssssss[37m[0m[1mdMMMNy[0m[31m[1msssso.
+      -+sssssssssssssssss[37m[0m[1myyy[0m[31m[1mssss+-
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.[0m
+[20A[9999999D[43C[0m[1m[31m[1mserhiivysotskyi[0m@[31m[1mserhiivysotskyi[0m 
+[43C[0m-------------------------------[0m 
+[43C[0m[31m[1mOS[0m[0m:[0m Ubuntu 22.04.1 LTS x86_64[0m 
+[43C[0m[31m[1mHost[0m[0m:[0m VirtualBox 1.2[0m 
+[43C[0m[31m[1mKernel[0m[0m:[0m 5.15.0-69-generic[0m 
+[43C[0m[31m[1mUptime[0m[0m:[0m 13 mins[0m 
+[43C[0m[31m[1mPackages[0m[0m:[0m 694 (dpkg), 4 (snap)[0m 
+[43C[0m[31m[1mShell[0m[0m:[0m bash 5.1.16[0m 
+[43C[0m[31m[1mResolution[0m[0m:[0m 800x600[0m 
+[43C[0m[31m[1mTerminal[0m[0m:[0m /dev/pts/0[0m 
+[43C[0m[31m[1mCPU[0m[0m:[0m Intel i7-10870H (1) @ 2.208GHz[0m 
+[43C[0m[31m[1mGPU[0m[0m:[0m 00:02.0 VMware SVGA II Adapter[0m 
+[43C[0m[31m[1mMemory[0m[0m:[0m 219MiB / 1976MiB[0m 
+
+[43C[30m[40m   [31m[41m   [32m[42m   [33m[43m   [34m[44m   [35m[45m   [36m[46m   [37m[47m   [m
+[43C[38;5;8m[48;5;8m   [38;5;9m[48;5;9m   [38;5;10m[48;5;10m   [38;5;11m[48;5;11m   [38;5;12m[48;5;12m   [38;5;13m[48;5;13m   [38;5;14m[48;5;14m   [38;5;15m[48;5;15m   [m
+
+
+
+
+
+[?25h[?7hLinux serhiivysotskyi 5.15.0-69-generic #76-Ubuntu SMP Fri Mar 17 17:19:29 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.10.10.103  netmask 255.255.255.0  broadcast 10.10.10.255
+        inet6 fe80::a00:27ff:fe85:b5dd  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:85:b5:dd  txqueuelen 1000  (Ethernet)
+        RX packets 153922  bytes 225263797 (225.2 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 44330  bytes 3713836 (3.7 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 154  bytes 13972 (13.9 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 154  bytes 13972 (13.9 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: enp0s3: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 08:00:27:85:b5:dd brd ff:ff:ff:ff:ff:ff
+    inet 10.10.10.103/24 metric 100 brd 10.10.10.255 scope global dynamic enp0s3
+       valid_lft 85591sec preferred_lft 85591sec
+    inet6 fe80::a00:27ff:fe85:b5dd/64 scope link 
+       valid_lft forever preferred_lft forever
+# This is /run/systemd/resolve/stub-resolv.conf managed by man:systemd-resolved(8).
+# Do not edit.
+#
+# This file might be symlinked as /etc/resolv.conf. If you're looking at
+# /etc/resolv.conf and seeing this text, you have followed the symlink.
+#
+# This is a dynamic resolv.conf file for connecting local clients to the
+# internal DNS stub resolver of systemd-resolved. This file lists all
+# configured search domains.
+#
+# Run "resolvectl status" to see details about the uplink DNS servers
+# currently in use.
+#
+# Third party programs should typically not access this file directly, but only
+# through the symlink at /etc/resolv.conf. To manage man:resolv.conf(5) in a
+# different way, replace this symlink by a static file or a different symlink.
+#
+# See man:systemd-resolved.service(8) for details about the supported modes of
+# operation for /etc/resolv.conf.
+
+nameserver 127.0.0.53
+options edns0 trust-ad
+search .
+#
+# /etc/sysctl.conf - Configuration file for setting system variables
+# See /etc/sysctl.d/ for additional system variables.
+# See sysctl.conf (5) for information.
+#
+
+#kernel.domainname = example.com
+
+# Uncomment the following to stop low-level messages on console
+#kernel.printk = 3 4 1 3
+
+###################################################################
+# Functions previously found in netbase
+#
+
+# Uncomment the next two lines to enable Spoof protection (reverse-path filter)
+# Turn on Source Address Verification in all interfaces to
+# prevent some spoofing attacks
+#net.ipv4.conf.default.rp_filter=1
+#net.ipv4.conf.all.rp_filter=1
+
+# Uncomment the next line to enable TCP/IP SYN cookies
+# See http://lwn.net/Articles/277146/
+# Note: This may impact IPv6 TCP sessions too
+#net.ipv4.tcp_syncookies=1
+
+# Uncomment the next line to enable packet forwarding for IPv4
+#net.ipv4.ip_forward=1
+
+# Uncomment the next line to enable packet forwarding for IPv6
+#  Enabling this option disables Stateless Address Autoconfiguration
+#  based on Router Advertisements for this host
+#net.ipv6.conf.all.forwarding=1
+
+
+###################################################################
+# Additional settings - these settings can improve the network
+# security of the host and prevent against some network attacks
+# including spoofing attacks and man in the middle attacks through
+# redirection. Some network environments, however, require that these
+# settings are disabled so review and enable them as needed.
+#
+# Do not accept ICMP redirects (prevent MITM attacks)
+#net.ipv4.conf.all.accept_redirects = 0
+#net.ipv6.conf.all.accept_redirects = 0
+# _or_
+# Accept ICMP redirects only for gateways listed in our default
+# gateway list (enabled by default)
+# net.ipv4.conf.all.secure_redirects = 1
+#
+# Do not send ICMP redirects (we are not a router)
+#net.ipv4.conf.all.send_redirects = 0
+#
+# Do not accept IP source route packets (we are not a router)
+#net.ipv4.conf.all.accept_source_route = 0
+#net.ipv6.conf.all.accept_source_route = 0
+#
+# Log Martian Packets
+#net.ipv4.conf.all.log_martians = 1
+#
+
+###################################################################
+# Magic system request Key
+# 0=disable, 1=enable all, >1 bitmask of sysrq functions
+# See https://www.kernel.org/doc/html/latest/admin-guide/sysrq.html
+# for what other values do
+#kernel.sysrq=438
+

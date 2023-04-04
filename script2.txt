@@ -1,0 +1,74 @@
+ 12:04:41 up 33 min,  2 users,  load average: 0.01, 0.01, 0.00
+serhiivysotskyi
+ 12:04:41 up 33 min,  2 users,  load average: 0.01, 0.01, 0.00
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+serhiivy tty1     -                11:31   33:11   0.05s  0.01s -bash
+serhiivy pts/0    10.10.10.101     11:54    1.00s  0.16s  0.00s w
+serhiivy pts/0        10.10.10.101     Tue Apr  4 11:54   still logged in
+serhiivy pts/0        10.10.10.101     Tue Apr  4 11:31 - 11:54  (00:22)
+serhiivy tty1                          Tue Apr  4 11:31   still logged in
+reboot   system boot  5.15.0-69-generi Tue Apr  4 11:31   still running
+serhiivy pts/0        10.10.10.101     Tue Apr  4 08:48 - crash  (02:42)
+serhiivy tty1                          Tue Apr  4 08:48 - crash  (02:42)
+reboot   system boot  5.15.0-69-generi Tue Apr  4 08:47   still running
+
+wtmp begins Tue Apr  4 08:47:51 2023
+    PID USER     %CPU COMMAND
+   1147 root      0.3 /usr/lib/snapd/snapd
+   1548 root      0.1 [kworker/0:19-events]
+      1 root      0.0 /sbin/init
+      2 root      0.0 [kthreadd]
+      3 root      0.0 [rcu_gp]
+      4 root      0.0 [rcu_par_gp]
+      5 root      0.0 [slub_flushwq]
+      6 root      0.0 [netns]
+      8 root      0.0 [kworker/0:0H-events_highpri]
+    PID USER     %MEM COMMAND
+   1147 root      2.3 /usr/lib/snapd/snapd
+    412 root      1.3 /sbin/multipathd -d -s
+    714 root      1.0 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+   3112 root      1.0 /usr/libexec/packagekitd
+    641 root      0.9 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+    368 root      0.7 /lib/systemd/systemd-journald
+      1 root      0.6 /sbin/init
+    650 root      0.6 /usr/libexec/udisks2/udisksd
+    622 systemd+  0.6 /lib/systemd/systemd-resolved
+               total        used        free      shared  buff/cache   available
+Mem:         2023452      192292      654692        1092     1176468     1643860
+Swap:        2097148           0     2097148
+Total:       4120600      192292     2751840
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 654692  93940 1082528    0    0   295   351  401  338  1  1 98  1  0
+Filesystem                         Size  Used Avail Use% Mounted on
+tmpfs                              198M  1.1M  197M   1% /run
+/dev/mapper/ubuntu--vg-ubuntu--lv   28G  5.2G   21G  20% /
+tmpfs                              989M     0  989M   0% /dev/shm
+tmpfs                              5.0M     0  5.0M   0% /run/lock
+/dev/sda2                          2.0G  130M  1.7G   8% /boot
+tmpfs                              198M  4.0K  198M   1% /run/user/1000
+4.0K	/home/serhiivysotskyi/.ssh
+4.0K	/home/serhiivysotskyi/Scripting/.git/branches
+8.0K	/home/serhiivysotskyi/Scripting/.git/info
+8.0K	/home/serhiivysotskyi/Scripting/.git/logs/refs/heads
+8.0K	/home/serhiivysotskyi/Scripting/.git/logs/refs/remotes/origin
+12K	/home/serhiivysotskyi/Scripting/.git/logs/refs/remotes
+24K	/home/serhiivysotskyi/Scripting/.git/logs/refs
+32K	/home/serhiivysotskyi/Scripting/.git/logs
+8.0K	/home/serhiivysotskyi/Scripting/.git/refs/heads
+4.0K	/home/serhiivysotskyi/Scripting/.git/refs/tags
+8.0K	/home/serhiivysotskyi/Scripting/.git/refs/remotes/origin
+12K	/home/serhiivysotskyi/Scripting/.git/refs/remotes
+28K	/home/serhiivysotskyi/Scripting/.git/refs
+4.0K	/home/serhiivysotskyi/Scripting/.git/objects/info
+12K	/home/serhiivysotskyi/Scripting/.git/objects/pack
+20K	/home/serhiivysotskyi/Scripting/.git/objects
+64K	/home/serhiivysotskyi/Scripting/.git/hooks
+180K	/home/serhiivysotskyi/Scripting/.git
+208K	/home/serhiivysotskyi/Scripting
+4.0K	/home/serhiivysotskyi/.config/procps
+24K	/home/serhiivysotskyi/.config/neofetch
+32K	/home/serhiivysotskyi/.config
+4.0K	/home/serhiivysotskyi/scripting
+4.0K	/home/serhiivysotskyi/.cache
+284K	/home/serhiivysotskyi
